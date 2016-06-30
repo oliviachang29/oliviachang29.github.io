@@ -12,7 +12,6 @@ Hi there! I'm a 14 year old developer. I've been coding since 3rd grade.
 ## Smaller projects I've worked on:
 * [Forms of Carbon](https://oliviachang29.github.io/formsofcarbon/): small website about fullerenes and nanotubes
 * [TSA Clone](https://oliviachang29.github.io/tsa-clone/): stupid clone of the $47K TSA app
-* [Caret.us](https://oliviachang29.github.io/caret.us): infrequently updated blog
 
 ## Languages I’m good with: 
 * Ruby on Rails (Ruby, HTML, CSS/Sass) 
