@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hi there! I'm a 14 year old developer.
+Hi there! I'm a 14 year old developer. I've been coding since 3rd grade.
 
 ## Big projects I've worked on:
 
