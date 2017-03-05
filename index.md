@@ -11,7 +11,11 @@ Hi there! I'm a 15 year old developer. I've been coding since 3rd grade.
 
 ## Smaller projects I've worked on:
 * [Forms of Carbon](https://oliviachang29.github.io/formsofcarbon/): small website about fullerenes and nanotubes
-* [TSA Clone](https://oliviachang29.github.io/tsa-clone/): Mario-themed clone of the $47K TSA app
+* [TSA Clone](https://oliviachang29.github.io/tsa-clone/): Mario-themed clone of the $47K TSA app\
+
+## Website design
+* [FlyingChinese.org](http://www.flyingchinese.org/): online Chinese tutoring program
+* [Mrs. Poh's Bakery](http://pohhomebakery.weebly.com/): Malaysian-based home bakery
 
 ## Languages I’m good with: 
 * Ruby on Rails (Ruby, HTML, CSS/Sass) 
