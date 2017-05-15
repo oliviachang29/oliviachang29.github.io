@@ -16,6 +16,8 @@ Hi there! I'm a 15 year old developer. I've been coding since 3rd grade.
 ## Website design
 * [FlyingChinese.org](http://www.flyingchinese.org/): online Chinese tutoring program
 * [Mrs. Poh's Bakery](http://pohhomebakery.weebly.com/): Malaysian-based home bakery
+* [Chapterhouse.xyz](https://www.chapterhouse.xyz/): Collection of biology study guides
+* [Sarcastic Panda](https://www.sarcasticpanda.com/): Satire-ish reflections on politics and more
 
 ## Languages I’m good with: 
 * Ruby on Rails (Ruby, HTML, CSS/Sass) 
