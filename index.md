@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-Hi there! I'm a 15 year old developer. I've been coding since 3rd grade.
-
 ## Big projects I've worked on:
 
 * [Readlio](https://readlio.com/): online reading log for teachers and students
@@ -20,13 +18,14 @@ Hi there! I'm a 15 year old developer. I've been coding since 3rd grade.
 * [Sarcastic Panda](https://www.sarcasticpanda.com/): Satire-ish reflections on politics and more
 
 ## Languages I’m good with: 
-* Ruby on Rails (Ruby, HTML, CSS/Sass) 
-* Corona SDK (Lua) 
+* Ruby (Rails) 
+* HTML, CSS/Sass (Rails)  
+* JS (React Native, Rails)
+* Lua (Corona SDK)
 
 ## I’ve also done a little bit of: 
 * Python 
 * Java 
-* JavaScript 
 
 [Contact me](mailto:oliviachang29@gmail.com?Subject=Hello%20there)
 
