@@ -4,12 +4,14 @@ layout: default
 ## Big projects I've worked on:
 
 * [Readlio](https://readlio.com/): online reading log for teachers and students
+* [Windup](https://windup.top): app for figure skaters, gymnasts, and dancers to play program music
 * [Patterns](https://play.google.com/store/apps/details?id=com.sixtuitive.games.patterns&hl=en): memory game on the Google Play store
 * [Checklist](https://github.com/oliviachang29/checklist): simple todo app
 
 ## Smaller projects I've worked on:
 * [Forms of Carbon](https://oliviachang29.github.io/formsofcarbon/): small website about fullerenes and nanotubes
-* [TSA Clone](https://oliviachang29.github.io/tsa-clone/): Mario-themed clone of the $47K TSA app\
+* [TSA Clone](https://oliviachang29.github.io/tsa-clone/): Mario-themed clone of the $47K TSA app
+* [NewsApp](https://github.com/oliviachang29/NewsApp): News client built with React Native, pulls headlines from NYT, WSJ, Washpo and CNN
 
 ## Website design
 * [FlyingChinese.org](http://www.flyingchinese.org/): online Chinese tutoring program
