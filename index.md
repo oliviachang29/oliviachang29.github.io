@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writes articles on medium](https://medium.com/@oliviazyc).
+Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writes articles on medium](https://medium.com/@oliviazyc). I also maintain a [React Native guide for troubleshooting common bugs](https://github.com/oliviachang29/react-native-guide).
 ## Big projects I've worked on:
 
 * [Readlio](https://readlio.com/): online reading log for teachers and students
