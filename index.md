@@ -29,7 +29,7 @@ layout: default
 * Python 
 * Java 
 
-[Contact me](mailto:oliviachang29@gmail.com?Subject=Hello%20there)
+[Contact me](mailto:anatolebarna@gmail.com?Subject=Hello%20there)
 
 <hr>
 
