@@ -15,7 +15,6 @@ Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writ
 * [NewsApp](https://github.com/oliviachang29/NewsApp): News client built with React Native, pulls headlines from NYT, WSJ, Washpo and CNN
 
 ## Website design
-* [FlyingChinese.org](http://www.flyingchinese.org/): online Chinese tutoring program
 * [Mrs. Poh's Bakery](http://pohhomebakery.weebly.com/): Malaysian-based home bakery
 * [binaary.co](https://www.binaary.co/): Collection of biology study guides
 * [Sarcastic Panda](https://www.sarcasticpanda.com/): Satire-ish reflections on politics and more
@@ -26,7 +25,7 @@ Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writ
 * JS (React Native, Rails)
 * Lua (Corona SDK)
 
-## I’ve also done a little bit of: 
+## I also have experience with:
 * Python 
 * Java 
 
