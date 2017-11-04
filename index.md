@@ -2,11 +2,13 @@
 layout: default
 ---
 Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writes articles on medium](https://medium.com/@oliviazyc). I also maintain a [React Native guide for troubleshooting common bugs](https://github.com/oliviachang29/react-native-guide).
-## Big projects I've worked on:
 
+## Big projects I've worked on:
 * [Readlio](https://readlio.com/): online reading log for teachers and students
+* [Mere](https://www.youtube.com/watch?v=EZs5ZZv6OdI&t=1s): journaling made easy
 * [Windup](https://windup.top): app for figure skaters, gymnasts, and dancers to play program music
 * [Patterns](https://play.google.com/store/apps/details?id=com.sixtuitive.games.patterns&hl=en): memory game on the Google Play store
+* [studyguides.science](https://www.studyguides.science/): Collection of science study guides
 * [Checklist](https://github.com/oliviachang29/checklist): simple todo app
 
 ## Smaller projects I've worked on:
@@ -14,9 +16,8 @@ Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writ
 * [TSA Clone](https://oliviachang29.github.io/tsa-clone/): Mario-themed clone of the $47K TSA app
 * [NewsApp](https://github.com/oliviachang29/NewsApp): News client built with React Native, pulls headlines from NYT, WSJ, Washpo and CNN
 
-## Website design
+## Website design for clients:
 * [Mrs. Poh's Bakery](http://pohhomebakery.weebly.com/): Malaysian-based home bakery
-* [binaary.co](https://www.binaary.co/): Collection of biology study guides
 * [Sarcastic Panda](https://www.sarcasticpanda.com/): Satire-ish reflections on politics and more
 
 ## Languages I’m good with: 
