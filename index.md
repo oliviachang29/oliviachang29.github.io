@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oliviachang29/oliviachang29.github.io/blob/master/Olivia.png" alt="logo" width="100">
-
+![profile photo](https://github.com/oliviachang29/oliviachang29.github.io/blob/master/Olivia.png "Profile Photo")
 Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writes articles on medium](https://medium.com/@oliviazyc). I also maintain a [react.coach](https://react.coach), a site containing useful tutorials and resources for React Native.
 
 ## Big projects I've worked on:
