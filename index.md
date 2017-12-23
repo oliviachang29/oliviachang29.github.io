@@ -2,12 +2,11 @@
 layout: default
 ---
 
-![profile photo](https://github.com/oliviachang29/oliviachang29.github.io/blob/master/Olivia.png "Profile Photo")
 Hi there! I'm Olivia. I'm a Rails and React Native developer who [sometimes writes articles on medium](https://medium.com/@oliviazyc). I also maintain a [react.coach](https://react.coach), a site containing useful tutorials and resources for React Native.
 
 ## Big projects I've worked on:
+* [Mere](https://www.youtube.com/watch?v=EZs5ZZv6OdI&t=1s): journaling made easy. This app won the 2017 Congressional App Challenge.
 * [Readlio](https://readlio.com/): online reading log for teachers and students
-* [Mere](https://www.youtube.com/watch?v=EZs5ZZv6OdI&t=1s): journaling made easy
 * [Windup](https://windup.top): app for figure skaters, gymnasts, and dancers to play program music
 * [Patterns](https://play.google.com/store/apps/details?id=com.sixtuitive.games.patterns&hl=en): memory game on the Google Play store
 * [studyguides.science](https://www.studyguides.science/): Collection of science study guides
